@@ -1,4 +1,4 @@
 [submodule "skia"]
 	path = skia
-	url = https://github.com/fonttools/skia
+	url = https://github.com/luowanglin/skia.git
 	branch = chrome/m113-fix-win-x86
